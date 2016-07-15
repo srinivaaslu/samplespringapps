@@ -1,0 +1,6 @@
+com\howtodoinjava\jersey\provider\AuthenticationFilter.class
+com\howtodoinjava\jersey\provider\GsonMessageBodyHandler.class
+com\howtodoinjava\jersey\service\JerseyService.class
+com\howtodoinjava\jersey\beans\Employee.class
+com\howtodoinjava\jersey\beans\Employees.class
+com\howtodoinjava\jersey\CustomApplication.class

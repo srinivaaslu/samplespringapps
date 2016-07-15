@@ -1,0 +1,6 @@
+com\mkyong\helloworld\config\SpringWebConfig.class
+com\mkyong\helloworld\service\HelloWorldService.class
+com\mkyong\helloworld\web\WelcomeController.class
+com\mkyong\helloworld\servlet3\MyWebInitializer.class
+com\mkyong\helloworld\config\SpringRootConfig.class
+com\springapp\mvc\HelloController.class

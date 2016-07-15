@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="SpringInMemoryDataBase:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringInMemoryDataBase-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SpringInMemoryDataBase:war exploded" />
+    </root>
+  </artifact>
+</component>

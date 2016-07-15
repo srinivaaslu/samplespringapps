@@ -1,0 +1,4 @@
+com\mkyong\customer\controller\CustomerController.class
+com\mkyong\customer\model\Customer.class
+com\mkyong\customer\validator\CustomerValidator.class
+com\springapp\mvc\HelloController.class

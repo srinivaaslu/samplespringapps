@@ -1,0 +1,9 @@
+com\concretepage\StudentUtility.class
+com\concretepage\WebAppInitializer.class
+com\concretepage\soap\GetStudentResponse.class
+com\concretepage\StudentEndpoint.class
+com\concretepage\soap\ObjectFactory.class
+com\concretepage\soap\GetStudentRequest.class
+com\concretepage\soap\package-info.class
+com\concretepage\AppConfig.class
+com\concretepage\soap\Student.class

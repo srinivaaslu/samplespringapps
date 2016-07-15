@@ -1,0 +1,21 @@
+apply plugin: 'java'
+sourceCompatibility = 1.7
+apply plugin: "war"
+war {
+    baseName = 'SpringGradleExample'
+    version = '1.0.0-BUILD-SNAPSHOT'
+}
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.springframework:spring-core:4.1.1.RELEASE'
+    compile 'org.springframework:spring-webmvc:4.1.1.RELEASE'
+    compile 'org.springframework:spring-web:4.1.1.RELEASE'
+    compile 'org.springframework:spring-test:4.1.1.RELEASE'
+
+    compile 'javax.servlet:servlet-api:2.5'
+
+    testCompile 'junit:junit:4.7'
+}

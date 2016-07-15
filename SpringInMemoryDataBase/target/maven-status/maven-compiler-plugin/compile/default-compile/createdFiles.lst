@@ -1,0 +1,12 @@
+com\mkyong\config\db\H2DataSource.class
+com\mkyong\config\db\DerbyDataSource.class
+com\mkyong\model\User.class
+com\mkyong\config\SpringWebConfig.class
+com\mkyong\dao\UserDaoImpl.class
+com\mkyong\dao\UserDaoImpl$1.class
+com\mkyong\servlet3\MyWebInitializer.class
+com\mkyong\web\controller\WelcomeController.class
+com\mkyong\dao\UserDao.class
+com\mkyong\config\db\HsqlDataSource.class
+com\mkyong\config\SpringRootConfig.class
+com\mkyong\dao\UserDaoImpl$UserMapper.class
